@@ -36,5 +36,3 @@ function currentTheme() {
     return;
   }
 }
-
-currentTheme();
